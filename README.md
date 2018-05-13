@@ -1,4 +1,4 @@
-# Karatcoin DAPP
+# Karatcoin DApp
 
 Initial commit.
 
